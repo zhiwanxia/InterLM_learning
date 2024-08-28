@@ -6,6 +6,6 @@
 
 ![6.4](./picture/6.4.png)
 
-![6.5](./picture/6.5.png)
+![6.7](./picture/6.7.png)![6.8](./picture/6.8.png)
 
-![6.6](./picture/6.6.png)
+![6.9](./picture/6.9.png)
